@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-    margin-top: 30px;
+    margin-top: 120px;
     text-align: center;
     position: relative;
     z-index: 1;
@@ -40,7 +40,7 @@ body {
     background-color: #150202;
     overflow: hidden;
     position: fixed; 
-    bottom: 0; 
+    top: 0; 
     width: 100%; 
     text-align: center;
 }
